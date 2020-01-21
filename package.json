@@ -1,0 +1,19 @@
+{
+  "name": "dayz-server-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gamedig": "^2.0.20"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1"
+  }
+}
